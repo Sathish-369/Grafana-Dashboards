@@ -1,0 +1,7 @@
+Developing a stat dashboard
+
+Query:- On the inquiry, there are numerous data sources. Require a panel with all of the critical alert counts for data sources.
+
+We performed the following actions on the transform to achieve it:
+Mode: series to rows
+calculation: count
